@@ -21,3 +21,5 @@ Test repository on how to create a Xamarin application.
 ### Mac
 
 1. [Visual Studio for MacOS](https://visualstudio.microsoft.com/downloads/) or [Xamarin Studio](https://stackoverflow.com/questions/32069849/installing-xamarin-studio-on-windows)
+
+2. [XCode](https://apps.apple.com/us/app/xcode/id497799835?mt=12) (latest version along with all components)
